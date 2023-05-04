@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yakuto98
 - 👀 I’m interested in Moonlight
-- 🌱 I’m currently learning data analysis
-- 💞️ I’m looking to collaborate on data analysis
+- 🌱 I’m currently learning data science
+- 💞️ I’m looking to collaborate on data science
 - 📫 Contact: https://www.linkedin.com/in/canhvu0798/
 
 <!---
